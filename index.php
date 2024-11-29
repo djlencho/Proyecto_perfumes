@@ -14,7 +14,7 @@ session_start();
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Esencias Únicas Florencio</title>
+  <title>Esencias Naturales Florencio</title>
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
